@@ -1,0 +1,35 @@
+#zagolovk {
+    text-align: center;
+    font-size: 25px;
+    color: aqua;
+}
+.login{
+    text-align: center;
+}
+html{
+    background: url("https://c.tenor.com/Zupcd-jWrf4AAAAC/sky-purple.gif") no-repeat fixed center;
+    background-attachment: fixed;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    
+    -webkit-background-size: cover;
+    background-size: cover;
+
+}
+.inst{
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+}
+#proverka{
+    height:50px;
+    width:80px;
+    font-size: 15px;
+}
+#password{
+    height:25px;
+    width:250px;
+    font-size: 15px;
+}
